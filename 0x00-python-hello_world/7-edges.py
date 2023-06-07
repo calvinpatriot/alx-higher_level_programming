@@ -1,4 +1,3 @@
-81% of storage used … You can clean up space or get more storage for Drive, Gmail, and Google Photos.
 #!/usr/bin/python3
 word = "Holberton"
 word_first_3 = word[:3]
