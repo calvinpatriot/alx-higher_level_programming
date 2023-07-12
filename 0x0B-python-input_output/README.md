@@ -1,1 +1,1 @@
-this is the README file for 0x0B-python-input_output project
+this is the readme file for task 0x0B-python-input_output
